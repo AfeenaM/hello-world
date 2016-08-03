@@ -1,0 +1,32 @@
+/* Styles go here */
+
+
+nav {
+  font-family: "Lato";
+  display: inline;
+  color: #FA8072;
+}
+nav li {
+  display: inline;
+  text-align: right;
+}
+nav ul {
+  display: inline;
+  position: relative;
+  top: 2px;
+  left: 800px;
+  }
+
+.name {
+  font-family: "Lato";
+  background-color: #FFF;
+  margin: 0;
+  text-align: center;
+}
+
+.gallery-complete {
+  display: flex;
+  flex-wrap: wrap;
+  
+  
+}
