@@ -2,11 +2,11 @@
 
 
 nav {
-  font-family: "Courier";
   display: inline;
   color: #FA8072;
 }
 nav li {
+  font-family: "Courier";
   display: inline;
   text-align: right;
 }
@@ -17,7 +17,7 @@ nav ul {
   left: 800px;
   }
 
-.name {
+h1 {
   font-family: "Courier";
   background-color: #FFF;
   margin: 0;
