@@ -6,11 +6,11 @@ nav {
   color: #FA8072;
 }
 nav li {
-  font-family: "Courier";
   display: inline;
   text-align: right;
 }
 nav ul {
+  font-family: "Courier";
   display: inline;
   position: relative;
   top: 2px;
