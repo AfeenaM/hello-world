@@ -2,7 +2,7 @@
 
 
 nav {
-  font-family: "Lato";
+  font-family: "Courier";
   display: inline;
   color: #FA8072;
 }
@@ -18,7 +18,7 @@ nav ul {
   }
 
 .name {
-  font-family: "Lato";
+  font-family: "Courier";
   background-color: #FFF;
   margin: 0;
   text-align: center;
@@ -27,6 +27,4 @@ nav ul {
 .gallery-complete {
   display: flex;
   flex-wrap: wrap;
-  
-  
 }
