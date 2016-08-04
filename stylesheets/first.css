@@ -23,7 +23,7 @@ nav ul {
 h1 {
   font-family: "Courier";
   background-color: #BEBEBE;
-  border: 5px;
+  border: 5px solid black;
   margin: 0;
   text-align: center;
 }
