@@ -23,7 +23,12 @@ h1 {
   margin: 0;
   text-align: center;
 }
-
+h3 {
+  font-family: "Courier";
+  background-color: #FFF;
+  margin: 0;
+  text-align: center;
+}
 .gallery-complete {
   display: flex;
   flex-wrap: wrap;
