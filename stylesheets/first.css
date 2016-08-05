@@ -45,4 +45,10 @@ h3 {
   display: flex;
   flex-wrap: wrap;
 }
-
+.container {
+  height:800px;
+  width: 600px;
+  position: center;
+  repeat: no-repeat;
+}
+}
