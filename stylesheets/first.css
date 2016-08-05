@@ -48,8 +48,8 @@ h3 {
 .container {
   height:300px;
   width: 150px;
-  border: 1px black solid;
+  border: 5px #ffffff solid;
   position: center;
   repeat: no-repeat;
 }
-}
+
