@@ -10,8 +10,6 @@ body	{
 nav {
   display: inline;
   color: #ffffff;
-  text-align: right;
-  float: right;
 }
 nav li {
   display: inline;
