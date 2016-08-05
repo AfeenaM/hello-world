@@ -1,12 +1,14 @@
 /* Styles go here */
 body {
   background-image:url("http://vignette3.wikia.nocookie.net/koror-blog-org/images/6/6e/Black_and_White_Beach_Landscape_Wallpaper_HD_(12).jpg/revision/latest?cb=20140908031733");
-background-size: contain;
+  height: 600;
+  width: 800;
 }
 
 nav {
   display: inline;
   color: #ffffff;
+  text-align: right;
 }
 nav li {
   display: inline;
