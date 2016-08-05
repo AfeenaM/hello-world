@@ -4,7 +4,7 @@ body	{
   top right no-repeat; 
   background-attachment:fixed;
   width: 80%;
-  position: center;
+  height: 100%;
 }
 nav {
   display: inline;
