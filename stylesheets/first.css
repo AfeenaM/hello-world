@@ -18,8 +18,9 @@ nav li {
 nav ul {
   font-family: "Courier";
   display: inline;
-  position: relative;
+  position: absolute;
   top: 2px;
+  right: 0;
   text-align: right;
   }
 
