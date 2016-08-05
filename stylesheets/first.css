@@ -49,7 +49,7 @@ h3 {
   height:300px;
   width: 150px;
   border: 5px #ffffff solid;
-  position: center;
+  margin: auto;
   repeat: no-repeat;
 }
 
