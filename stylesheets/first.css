@@ -46,8 +46,8 @@ h3 {
   flex-wrap: wrap;
 }
 .container {
-  height:800px;
-  width: 600px;
+  height:300px;
+  width: 150px;
   border: 1px black solid;
   position: center;
   repeat: no-repeat;
