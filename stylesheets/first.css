@@ -6,7 +6,7 @@ body {
 
 nav {
   display: inline;
-  color: #FA8072;
+  color: #4a4943;
 }
 nav li {
   display: inline;
@@ -22,6 +22,7 @@ nav ul {
 
 h1 {
   font-family: "Courier";
+  color: #4a4943;
   background-color: #BEBEBE;
   border: 5px solid black;
   margin: 0;
@@ -29,6 +30,7 @@ h1 {
 }
 h3 {
   font-family: "Courier";
+  color: #4a4943;
   background-color: #BEBEBE;
   margin: 0;
   text-align: center;
